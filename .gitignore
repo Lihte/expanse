@@ -4,6 +4,14 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/[Gg]izmos/
+Assets/[Mm]odels/
+Assets/[Pp]refabs/
+Assets/[Rr]esources/
+Assets/[Ss]cenes/
+Assets/[Ss]SpritesUnsorted/
+Assets/[Ss]tore/
+Assets/[Tt]extures/
 
 # Visual Studio cache directory
 .vs/
